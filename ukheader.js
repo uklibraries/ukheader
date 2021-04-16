@@ -1,5 +1,6 @@
 // Universal Header for University of Kentucky Libraries websites
-// Author: Eric Weig
+// Author: Eric Weig, University of Kentucky Libraries
+// 2021
 
 /*jslint browser:true */
 /*jslint long:true */
